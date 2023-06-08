@@ -18,7 +18,7 @@ public class TestLogIN extends CommonAPI {
 
         log1.userNameField("standard_user");
         log1.passwordField("secret_sauce");
-        LOG.info("username and password intered successfully ");
+        LOG.info("username and password intered successfully git");
         log1.clickButton();
         Thread.sleep(1000);
 
